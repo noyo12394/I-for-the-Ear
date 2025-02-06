@@ -1,6 +1,4 @@
-Here's an enriched README based on your project details and context from the Grand Challenge Scholars Program:
 
----
 
 # I-for-the-Ear
 
